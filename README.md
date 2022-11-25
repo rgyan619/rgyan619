@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...Data Science
 - 🌱 I’m currently learning ...TensorFlow
 - 💬 Ask me about ...Machine Learning, Statistics and Probability, OpenCv
-- 📫 How to reach me: ...renukaalai@gmail.com
+- 📫 How to reach me: ...rgyan619@gmail.com
 -->
 
 
