@@ -1,13 +1,12 @@
 
 <h1>Hi There, I'm Gyan Ranjan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer** working at [Claim Genius](https://claimgenius.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Machine Learning Engineer** working at [Claim Genius](https://claimgenius.com/). My day-to-day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborating on interesting projects.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Data Science
-- 🌱 I’m currently learning ...TensorFlow
-- 💬 Ask me about ...Machine Learning, Statistics and Probability, OpenCv
+- 💬 Ask me about ...Machine Learning, Deep learning, Image processing, NLP, Generative AI, Multimodel GenAI, Statistics and Probability
 - 📫 How to reach me: ...rgyan619@gmail.com
 -->
 
