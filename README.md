@@ -1,7 +1,7 @@
 
 <h1>Hi There, I'm Gyan Ranjan <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-I'm a **Machine Learning Engineer** working at [GSLAB](https://www.gslab.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
+I'm a **Machine Learning Engineer** working at [Claim Genius](https://claimgenius.com/). My day to day work revolves around building Machine Learning models for various interesting problems and deploying them to production, at scale. I'm open to collaborate on interesting projects.
 
 Here are some ideas to get you started:
 
